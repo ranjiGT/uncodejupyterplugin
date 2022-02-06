@@ -67,7 +67,7 @@ Run the following command but make sure to change the path to the ones returned 
 
 # Assignment Indentification
 
-The Web-CAT assignment indetification parameters are fetched from the first cell. Paste the following comments in the first cell and change the values with your assignment parameters.
+The UNCode assignment indetification parameters are fetched from the first cell. Paste the following comments in the first cell and change the values with your assignment parameters.
 
     # Do not edit this cell
 
@@ -78,13 +78,6 @@ The Web-CAT assignment indetification parameters are fetched from the first cell
 
 # Screenshots
 
-#### Submit to Web-CAT button
-!["Submit to Web-CAT button"](screens/submit_button.png "Submit to Web-CAT button")
+#### Submit to UNCode button on JupyterHub
+!["Submit to UNCode button"](screens/submit_button.png "Submit to UNCode button")
 
-
-#### Web-CAT Assignment Parameters
-!["Web-CAT Assignment Parameters"](screens/assignment_parameters.png "Web-CAT Assignment Parameters")
-
-
-#### Assignment Submission
-!["Assignment Submission"](screens/submission.png "Assignment Submission")
