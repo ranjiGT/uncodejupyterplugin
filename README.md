@@ -79,5 +79,5 @@ The UNCode assignment indetification parameters are fetched from the first cell.
 # Screenshots
 
 #### Submit to UNCode button on JupyterHub
-!["Submit to UNCode button"](screens/submit_button.png "Submit to UNCode button")
+!["Submit to UNCode button"](screens/submit_button.jpeg "Submit to UNCode button")
 
