@@ -73,7 +73,7 @@ The UNCode assignment indetification parameters are fetched from the first cell.
 
     # course: 123
     # a: Assignment 1
-    # d: VT
+    # d: HPI
 
 
 # Screenshots
