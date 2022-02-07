@@ -81,3 +81,6 @@ The UNCode assignment indetification parameters are fetched from the first cell.
 #### Submit to UNCode button on JupyterHub
 !["Submit to UNCode button"](screens/submit_button.jpeg "Submit to UNCode button")
 
+# References
+
+https://github.com/CSSPLICE/webcatjupyterplugin
