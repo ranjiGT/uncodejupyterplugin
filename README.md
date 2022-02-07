@@ -33,8 +33,8 @@ If you are not using Anaconda, use the following commands:
 
 1. pip3 install git+https://github.com/ranjiGT/uncodejupyterplugin
 2. jupyter serverextension enable --py uncodejupyterplugin
-3. jupyter nbextension install --py uncodejupyterplugin
-4. jupyter nbextension enable --py uncodejupyterplugin
+3. jupyter nbextension install --user --py uncodejupyterplugin
+4. jupyter nbextension enable --user --py uncodejupyterplugin
 5. Download the file env.sh or clone the repository and run the command below
 6. sh env.sh
 
@@ -53,8 +53,8 @@ If you have Windows operating system, follow these steps:
 3. conda install git pip
 4. pip install git+https://github.com/ranjiGT/uncodejupyterplugin
 5. jupyter serverextension enable --py uncodejupyterplugin
-6. jupyter nbextension install --py uncodejupyterplugin
-7. jupyter nbextension enable --py uncodejupyterplugin
+6. jupyter nbextension install --user --py uncodejupyterplugin
+7. jupyter nbextension enable --user --py uncodejupyterplugin
 8. jupyterhub --generate-config
 
 This will generate a default config file and you will get the output like "Writing default config to: C:\Users\UserName\\.jupyter\jupyterhub_config.py"
