@@ -75,6 +75,11 @@ The UNCode assignment indetification parameters are fetched from the first cell.
     # a: Assignment 1
     # d: HPI
 
+# To uninstall this plugin
+
+```
+pip uninstall uncodejupyterplugin
+```
 
 # Screenshots
 
