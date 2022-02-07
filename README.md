@@ -1,4 +1,4 @@
-# uncodejupyterplugin
+# UNCode JupyterHub plugin
 A JupyterHub extension for submitting notebook files to UNCode. This project is a future work from [here](https://github.com/CSSPLICE/webcatjupyterplugin) which was originally designed for Jupyter Notebook. This respository is capable of having a front-end extension to JupyterHub. 
 
 # Requirements
