@@ -17,8 +17,8 @@ Follow these steps if you are running Jupyter Notebooks through Anaconda:
 1. conda install git pip
 2. pip install git+https://github.com/ranjiGT/uncodejupyterplugin
 3. jupyter serverextension enable --py uncodejupyterplugin
-4. jupyter nbextension install --py uncodejupyterplugin
-5. jupyter nbextension enable --py uncodejupyterplugin
+4. jupyter nbextension install --user --py uncodejupyterplugin
+5. jupyter nbextension enable --user --py uncodejupyterplugin
 7. Download the file env.sh or clone the repository and run the command below
 8. sh env.sh
 
