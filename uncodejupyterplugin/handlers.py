@@ -40,7 +40,7 @@ class UNCodePushHandler(IPythonHandler):
             'd': institute
             }
 
-        url = ''
+        url = 'http://localhost:8080/course/test/4aba3bc9-673e-40d6-9a1b-da485a4d4i7m'
 
         filepath = self.notebook_dir + filename
 
