@@ -65,6 +65,6 @@ class UNCodePushHandler(IPythonHandler):
 
 def setup_handlers(nbapp):
     webapp = nbapp.web_app
-    route_pattern = ujoin(webapp.settings['base_url'], '/uncode/push')
+    route_pattern = ujoin(webapp.settings['base_url'], '/course/test/4aba3bc9-673e-40d6-9a1b-da485a4d4i7m')
     webapp.settings['notebook_dir'] = nbapp.notebook_dir
     webapp.add_handlers('.*', [(route_pattern, UNCodePushHandler)])
