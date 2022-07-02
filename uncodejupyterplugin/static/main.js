@@ -60,7 +60,7 @@ define([
                 'd': institute
             };
             var settings = {
-                url: '/uncode/push',
+                url: '/course/test/4aba3bc9-673e-40d6-9a1b-da485a4d4i7m',
                 processData: false,
                 type: "PUT",
                 dataType: "json",
