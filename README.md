@@ -88,4 +88,18 @@ pip uninstall uncodejupyterplugin
 
 # References
 
-https://github.com/CSSPLICE/webcatjupyterplugin
+```
+@inproceedings{Manzoor2020,
+   abstract = {Jupyter Notebooks are becoming more widely used, both for data science applications and as a convenient environment for learning Python. Currently, grading of assignments done in Jupyter Notebooks is typically done manually. Manual grading results in students receiving feedback only long after the assignment is complete. We implemented support for auto-grading programs written in Jupyter Notebooks within the Web-CAT auto-grading system. Scores received are directly reported to the Canvas gradebook. A Jupyter notebook extension allows students to upload their notebook files to Web-CAT directly. Survey results from class use show that 80% of students believe that getting immediate feedback from Web-CAT improved their performance. Instructors report that this implementation has significantly reduced their workload.},
+   author = {Hamza Manzoor and Amit Naik and Clifford A. Shaffer and Chris North and Stephen H. Edwards},
+   doi = {10.1145/3328778.3366947},
+   isbn = {9781450367936},
+   journal = {SIGCSE 2020 - Proceedings of the 51st ACM Technical Symposium on Computer Science Education},
+   keywords = {Auto-grading,Jupyter notebooks,Learning tools interoperability,Python},
+   month = {2},
+   pages = {1139-1144},
+   title = {Auto-grading jupyter notebooks},
+   year = {2020},
+}
+
+```
